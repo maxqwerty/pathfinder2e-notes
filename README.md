@@ -1,5 +1,5 @@
-# pathfinder-2e-notes
-Заметки по правилам Pathfinder 2й редакции
+# pathfinder2e-tv-notes
+Заметки по компании Pathfinder 2й редакции в TV.
 
 Основано на видео с канала [How It's Played](https://www.youtube.com/@HowItsPlayed)
 
